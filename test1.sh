@@ -2,4 +2,4 @@
 
 mkdir Test
 cd Test
-echo 'Created Directory!'
+echo 'Created Directory Second time!'
